@@ -14,14 +14,14 @@
   {
     "id": "bbc-brasil",
     "name": "BBC News Brasil",
-    "category": "Brasil",
+    "category": "Brasil e mundo",
     "feed": "https://feeds.bbci.co.uk/portuguese/rss.xml"
   },
   {
     "id": "reuters",
     "name": "Reuters",
     "category": "Brasil e mundo",
-    "feed": "https://feeds.reuters.com/reuters/topNews"
+    "feed": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US"
   },
   {
     "id": "nexo",
@@ -33,13 +33,13 @@
     "id": "folha",
     "name": "Folha de S.Paulo",
     "category": "Brasil",
-    "feed": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"
+    "feed": "https://feeds.folha.uol.com.br/folha/topnoticias/rss091.xml"
   },
   {
     "id": "estadao",
     "name": "Estadão",
     "category": "Brasil",
-    "feed": "https://www.estadao.com.br/rss/ultimas.xml"
+    "feed": "https://www.estadao.com.br/rss/brasil.xml"
   },
   {
     "id": "oglobo",
@@ -56,7 +56,7 @@
   {
     "id": "cnn-brasil",
     "name": "CNN Brasil",
-    "category": "Brasil",
+    "category": "Brasil e mundo",
     "feed": "https://www.cnnbrasil.com.br/feed/"
   },
   {
@@ -81,7 +81,7 @@
     "id": "agencia-fapesp",
     "name": "Agência FAPESP",
     "category": "Ciência",
-    "feed": "https://agencia.fapesp.br/rss.xml"
+    "feed": "https://agencia.fapesp.br/rss/"
   },
   {
     "id": "agencia-gov",
