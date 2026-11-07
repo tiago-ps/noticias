@@ -1,0 +1,6 @@
+[
+  {"id":"g1","name":"G1","feed":"https://g1.globo.com/rss/g1/"},
+  {"id":"agencia-brasil","name":"Agência Brasil","feed":"https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"},
+  {"id":"bbc-brasil","name":"BBC News Brasil","feed":"https://feeds.bbci.co.uk/portuguese/rss.xml"},
+  {"id":"nexo","name":"Nexo Jornal","feed":"https://www.nexojornal.com.br/rss.xml"}
+]
