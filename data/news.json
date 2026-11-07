@@ -1,459 +1,827 @@
 [
   {
-    "source": "CNN Brasil",
+    "source": "BBC News Brasil",
     "category": "Brasil e mundo",
-    "title": "Desabamento no Brás: bombeiros retomam buscas por vítima pela manhã",
-    "summary": "Equipes não descartam vítima após análise de câmeras inconclusiva; retroescavadeira da prefeitura paulistana vai remover escombros para buscas no fundo da loja",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/desabamento-no-bras-bombeiros-retomam-buscas-por-vitima-pela-manha/",
-    "date": "2026-11-07T04:34:15+00:00"
+    "title": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe",
+    "summary": "O agressor foi baleado pela polícia e está sendo levado para o hospital, segundo as autoridades.",
+    "url": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T16:21:32+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "summary": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (7) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
-    "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "date": "2026-11-07T04:15:33+00:00"
+    "title": "Paraná registra estragos, quedas de árvores e falta de luz durante chuvas intensas",
+    "summary": "Diversas cidades do Paraná registraram estragos, quedas de árvores e falta de luz durante chuvas intensas no começo da tarde deste sábado (7). Em Curitiba, uma árvore de grande porte caiu no Pilarzinho e bloqueia a Avenida Fredolin Wolf. Um carro não viu e bateu, sem gravidade. Á",
+    "url": "https://g1.globo.com/pr/parana/noticia/2026/11/07/parana-registra-estragos-chuvas-intensas.ghtml",
+    "date": "2026-11-07T16:05:09+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Goiânia (GO): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este sábado (7) para Goiânia (GO) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com",
-    "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-goiania-go-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:15:16+00:00"
+    "title": "Surto de doença de Chagas por vinho de patauá mobiliza saúde e deixa paciente em UTI no Pará",
+    "summary": "A ocorrência de um surto de doença de Chagas foi registrada na zona rural do município, associado ao consumo de vinho de patauá. Divulgação/ASCOM-PMO A confirmação de um surto de doença de Chagas na zona rural de Óbidos, no oeste do Pará, acendeu um alerta epidemiológico na regiã",
+    "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/07/surto-de-doenca-de-chagas-por-vinho-de-pataua-mobiliza-saude-e-deixa-paciente-em-uti-no-para.ghtml",
+    "date": "2026-11-07T16:03:17+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-    "summary": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este sábado (7) para Aparecida de Goiânia (GO) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 35ºC e as mínimas de 22ºC. Clique aqui para ver",
-    "url": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-    "date": "2026-11-07T04:14:59+00:00"
+    "title": "Corpos de dois homens são encontrados mutilados dentro de mala e caixa em Salvador",
+    "summary": "Caso é investigado pela Polícia Civil da Bahia Ascom Polícia Civil Os corpos de dois homens foram encontrados mutilados dentro de uma mala e de uma caixa, na manhã deste sábado (7), em Salvador. Segundo a Polícia Civil, o caso aconteceu no bairro de Campinas de Pirajá. De acordo ",
+    "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/07/corpos-sao-encontrados-mutilados-em-salvador.ghtml",
+    "date": "2026-11-07T16:03:01+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este sábado (7) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 38ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com m",
-    "url": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:14:43+00:00"
+    "title": "VÍDEO: Bombeiros salvam bebê de 28 dias que ficou roxo após engasgar com leite em MS",
+    "summary": "Bombeiros salvam bebê de 28 dias que ficou roxo após engasgar com leite em MS Um bebê de apenas 28 dias foi salvo por bombeiros após se engasgar com leite materno e ficar sem respirar, na noite desta sexta-feira (6), em Maracaju (MS). Desesperada, a mãe levou o recém-nascido até ",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/07/video-bombeiros-salvam-bebe-de-28-dias-que-ficou-roxo-apos-engasgar-com-leite-em-ms.ghtml",
+    "date": "2026-11-07T16:02:23+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "summary": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este sábado (7) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 33ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
-    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "date": "2026-11-07T04:14:27+00:00"
+    "title": "Enem: estudantes terão metrô, trem e ônibus de graça em SP nos dias de prova",
+    "summary": "Movimento na estação Sé, da linha 3-Vermelha. Letícia Dauer/g1 Todos os estudantes que vão fazer o Exame Nacional do Ensino Médio (Enem) terão transporte público metropolitano gratuito no estado de São Paulo neste domingo (8) e no próximo (15), dias de aplicação das provas. A med",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/07/enem-estudantes-terao-metro-trem-e-onibus-de-graca-em-sp-nos-dias-de-prova.ghtml",
+    "date": "2026-11-07T15:59:33+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Porto Alegre (RS): sol com muitas nuvens a nublado com chuva no fim da manhã; tarde e noite chuvosas",
-    "summary": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este sábado (7) para Porto Alegre (RS) é de sol com muitas nuvens a nublado com chuva no fim da manhã. Tarde e noite chuvosas. As máximas são de 22ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-muitas-nuvens-a-nublado-com-chuva-no-fim-da-manha-tarde-e-noite-chuvosas.ghtml",
-    "date": "2026-11-07T04:14:09+00:00"
+    "title": "VÍDEOS: MG1 de sábado, 7 de novembro de 2026",
+    "summary": "Assista aos vídeos das principais notícias de Minas Gerais.",
+    "url": "https://g1.globo.com/mg/minas-gerais/videos-mg1/playlist/videos-mg1-de-sabado-7-de-novembro-de-2026.ghtml",
+    "date": "2026-11-07T15:59:05+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Caxias do Sul (RS): chuva forte de manhã e aberturas de sol à tarde, com pancadas de chuva; noite chuvosa",
-    "summary": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este sábado (7) para Caxias do Sul (RS) é de chuva forte de manhã e aberturas de sol à tarde, com pancadas de chuva. Noite chuvosa. As máximas são de 21ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em ",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-caxias-do-sul-rs-chuva-forte-de-manha-e-aberturas-de-sol-a-tarde-com-pancadas-de-chuva-noite-chuvosa.ghtml",
-    "date": "2026-11-07T04:13:53+00:00"
+    "title": "Golpista convenceu vítima de Monte Azul Paulista, SP, a transferir R$ 5,4 mil e 'escolher alianças'",
+    "summary": "Golpista convenceu vítima a transferir R$ 5,4 mil e ‘escolher alianças’, diz delegado Uma mulher de Monte Azul Paulista (SP) procurou a Polícia Civil na sexta-feira (6) para denunciar que também foi vítima do engenheiro agrônomo Fernando Vasco Fernandes, de 38 anos, e chegou a tr",
+    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/07/golpista-convenceu-vitima-de-monte-azul-paulista-sp-a-transferir-r-54-mil-e-escolher-aliancas.ghtml",
+    "date": "2026-11-07T15:58:43+00:00"
   },
   {
     "source": "G1",
     "category": "Brasil",
-    "title": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens e pancadas de chuva à tarde; à noite ocorre temporal",
-    "summary": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este sábado (7) para Joinville (SC) é de sol com muitas nuvens e pancadas de chuva à tarde. À noite ocorre temporal. As máximas são de 25ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Dura",
-    "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml",
-    "date": "2026-11-07T04:13:38+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Florianópolis (SC): sol com muitas nuvens a nublado com chuva de manhã; tarde e noite com temporal",
-    "summary": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este sábado (7) para Florianópolis (SC) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde e noite com temporal. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o ",
-    "url": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-e-noite-com-temporal.ghtml",
-    "date": "2026-11-07T04:13:20+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Maringá (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este sábado (7) para Maringá (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com",
-    "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-maringa-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:13:02+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "summary": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este sábado (7) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
-    "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "date": "2026-11-07T04:12:45+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para este sábado (7) para Curitiba (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 24ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol c",
-    "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:12:29+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para São Paulo (SP): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para este sábado (7) para São Paulo (SP) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:12:10+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em São Bernardo do Campo g1 A previsão do tempo para este sábado (7) para São Bernardo do Campo (SP) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 30ºC e as mínimas de 19ºC. Clique aqui para ver a previ",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:11:53+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Santo André g1 A previsão do tempo para este sábado (7) para Santo André (SP) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 31ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-santo-andre-sp-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:11:37+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Osasco g1 A previsão do tempo para este sábado (7) para Osasco (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com m",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:11:21+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Guarulhos g1 A previsão do tempo para este sábado (7) para Guarulhos (SP) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-guarulhos-sp-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:11:04+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em São Gonçalo g1 A previsão do tempo para este sábado (7) para São Gonçalo (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:10:48+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Rio de Janeiro g1 A previsão do tempo para este sábado (7) para o Rio de Janeiro (RJ) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante ",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:10:31+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Nova Iguaçu g1 A previsão do tempo para este sábado (7) para Nova Iguaçu (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 35ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:10:14+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Niterói g1 A previsão do tempo para este sábado (7) para Niterói (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 31ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durant",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-niteroi-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:09:56+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Duque de Caxias g1 A previsão do tempo para este sábado (7) para Duque de Caxias (RJ) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 34ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo ",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-duque-de-caxias-rj-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:09:39+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Vitória (ES): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Vitória g1 A previsão do tempo para este sábado (7) para Vitória (ES) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 36ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com",
-    "url": "https://g1.globo.com/es/espirito-santo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-vitoria-es-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:09:23+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Vila Velha (ES): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "summary": "Previsão do tempo hoje em Vila Velha g1 A previsão do tempo para este sábado (7) para Vila Velha (ES) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 36ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, s",
-    "url": "https://g1.globo.com/es/espirito-santo/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-vila-velha-es-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "date": "2026-11-07T04:09:05+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Sete Lagoas g1 A previsão do tempo para este sábado (7) para Sete Lagoas (MG) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil",
-    "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-sete-lagoas-mg-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:08:49+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "summary": "Previsão do tempo hoje em Ribeirão das Neves g1 A previsão do tempo para este sábado (7) para Ribeirão das Neves (MG) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 32ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em",
-    "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-ribeirao-das-neves-mg-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "date": "2026-11-07T04:08:31+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Contagem (MG): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-    "summary": "Previsão do tempo hoje em Contagem g1 A previsão do tempo para este sábado (7) para Contagem (MG) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
-    "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-contagem-mg-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
-    "date": "2026-11-07T04:08:15+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Betim (MG): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-    "summary": "Previsão do tempo hoje em Betim g1 A previsão do tempo para este sábado (7) para Betim (MG) é de sol o dia todo. Muitas nuvens e pancadas de chuva de manhã e à noite. As máximas são de 32ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, s",
-    "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-betim-mg-sol-o-dia-todo-muitas-nuvens-e-pancadas-de-chuva-de-manha-e-a-noite.ghtml",
-    "date": "2026-11-07T04:07:59+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "summary": "Previsão do tempo hoje em Belo Horizonte g1 A previsão do tempo para este sábado (7) para Belo Horizonte (MG) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante ",
-    "url": "https://g1.globo.com/mg/minas-gerais/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-belo-horizonte-mg-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "date": "2026-11-07T04:07:22+00:00"
-  },
-  {
-    "source": "G1",
-    "category": "Brasil",
-    "title": "Previsão do tempo hoje para Salvador (BA): muitas nuvens o dia todo, com aberturas de sol",
-    "summary": "Previsão do tempo hoje em Salvador g1 A previsão do tempo para este sábado (7) para Salvador (BA) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 32ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nu",
-    "url": "https://g1.globo.com/ba/bahia/previsao-do-tempo/noticia/2026/11/07/previsao-do-tempo-hoje-para-salvador-ba-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
-    "date": "2026-11-07T04:07:06+00:00"
+    "title": "Praia Grande mapeia população negra para plano de igualdade racial",
+    "summary": "Prefeitura de Praia Grande realiza mapeamento da população negra na cidade. Divulgação/Prefeitura de Praia Grande Praia Grande, no litoral de São Paulo, iniciou um mapeamento da população negra da cidade para auxiliar na elaboração do Plano Municipal de Políticas Públicas de Prom",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/07/praia-grande-mapeia-populacao-negra-para-plano-de-igualdade-racial.ghtml",
+    "date": "2026-11-07T15:57:38+00:00"
   },
   {
     "source": "CNN Brasil",
     "category": "Brasil e mundo",
-    "title": "Santiago Peña é transferido para unidade especial das Forças Armadas",
-    "summary": "Segundo imprensa local, manifestantes em frente à residência do presidente destituído entraram em confronto com a polícia",
-    "url": "https://www.cnnbrasil.com.br/internacional/santiago-pena-e-transferido-para-unidade-especial-das-forcas-armadas/",
-    "date": "2026-11-07T03:59:16+00:00"
+    "title": "Verstappen, Hamilton e Leclerc perdem posições no grid do GP de São Paulo",
+    "summary": "Pilotos foram penalizados por trocas de componentes do motor acima do limite permitido pelo regulamento",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/verstappen-hamilton-e-leclerc-perdem-posicoes-no-grid-do-gp-de-sao-paulo/",
+    "date": "2026-11-07T15:57:15+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista ao Gazeta Meio Dia",
+    "summary": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
+    "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
+    "date": "2026-11-07T15:52:49+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista ao EPTV1",
+    "summary": "Assista ao EPTV1 Transmissão encerrada.",
+    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+    "date": "2026-11-07T15:52:29+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista ao Gazeta Meio Dia - edição regional",
+    "summary": "Assista ao Gazeta Meio Dia - edição regional Fique bem informado com o seu jornal da hora do almoço.",
+    "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
+    "date": "2026-11-07T15:52:26+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista ao JAP2 deste sábado (7)",
+    "summary": "Assista ao JAP2 deste sábado (7) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
+    "url": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quinta-5.ghtml",
+    "date": "2026-11-07T15:51:49+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista aos telejornais da TV Liberal",
+    "summary": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+    "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "date": "2026-11-07T15:51:08+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Assista aos telejornais da TV Bahia",
+    "summary": "Assista aos telejornais da TV Bahia",
+    "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "date": "2026-11-07T15:50:40+00:00"
   },
   {
     "source": "CNN Brasil",
     "category": "Brasil e mundo",
-    "title": "Papa Leão conclui primeiro dia na América do Sul com orações no Uruguai",
-    "summary": "Após passar por cirurgia no pulmão, pontífice cumprirá agenda intensa em três países sul-americanos nos próximos dias",
-    "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-conclui-primeiro-dia-na-america-do-sul-com-oracoes-no-uruguai/",
-    "date": "2026-11-07T03:34:12+00:00"
+    "title": "Verstappen lidera último treino livre em SP; veja posições dos brasileiros",
+    "summary": "Gabriel Bortoleto terminou na décima posição, enquanto Rafael Câmara, estreante pela Haas, ficou em 15º; classificação será neste sábado (7), às 15h",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/verstappen-lidera-ultimo-treino-livre-em-sp-veja-posicoes-dos-brasileiros/",
+    "date": "2026-11-07T15:50:14+00:00"
   },
   {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Bombeiros suspendem buscas em prédio que desabou no Brás",
-    "summary": "Medida foi tomada após a identificação de um novo risco de desabamento na estrutura de quatro andares; atividades devem ser retomadas pela manhã deste sábado (7)",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-suspendem-buscas-em-predio-que-desabou-no-bras/",
-    "date": "2026-11-07T03:21:53+00:00"
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Juiz de Fora e região permanecem em alerta para chuva; frente fria deve amenizar calor",
+    "summary": "Juiz de Fora deverá ter mais chuva no fim de semana Juliana Netto/g1 Após temporal de 76 milímetros em alguns bairros de Juiz de Fora na quinta-feira (5), o fim de semana deve continuar com chuva na cidade. Segundo o Instituto Nacional de Meteorologia (Inmet), há previsão de prec",
+    "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/07/juiz-de-fora-e-regiao-permanecem-em-alerta-para-chuva-frente-fria-deve-amenizar-calor.ghtml",
+    "date": "2026-11-07T15:50:10+00:00"
   },
   {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Loja que desabou no Brás funcionava sem alvará dos bombeiros",
-    "summary": "Sem o documento, estabelecimento não comprova que a edificação cumpre as normas de segurança contra riscos; teto do imóvel desabou com 35 pessoas dentro",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/loja-que-desabou-no-bras-funcionava-sem-alvara-dos-bombeiros/",
-    "date": "2026-11-07T03:04:43+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Caso Beatriz: polícia conclui inquérito e indicia casal por morte em MG",
-    "summary": "Ex-namorado da vítima e a atual namorada responderão por ocultação de cadáver e fraude processual após emboscada em Jaboticatubas",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/caso-beatriz-policia-conclui-inquerito-e-indicia-casal-por-morte-em-mg/",
-    "date": "2026-11-07T02:59:11+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Polícia investiga ossada humana encontrada em apartamento no interior de MG",
-    "summary": "Exames buscam confirmar suspeita de intoxicação após corpo permanecer por cerca de um ano no apartamento sem registro de desaparecimento",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/policia-investiga-ossada-humana-encontrada-em-apartamento-no-interior-de-mg/",
-    "date": "2026-11-07T02:57:48+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027",
-    "summary": "Treinador interino do Fluminense desde a saída de Luís Zubeldía, técnico falou sobre o interesse de ser o comandante no próximo ano após o triunfo sobre o Vitória, pelo Brasileiro",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/marcao-abre-o-jogo-sobre-o-futuro-e-se-coloca-a-disposicao-para-2027/",
-    "date": "2026-11-07T02:49:16+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Vitória 0 x 3 Fluminense: veja os melhores momentos pelo Brasileirão",
-    "summary": "Time carioca se firmou no G4 da competição com o triunfo, enquanto a equipe baiana segue bastante ameaçada pelo fantasma do rebaixamento para a Série B",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-0-x-3-fluminense-veja-os-melhores-momentos-pelo-brasileirao/",
-    "date": "2026-11-07T02:04:30+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Netflix renova a série “Ninguém Quer” para a quarta temporada",
-    "summary": "Anúncio ocorre após a produção alcançar mais de sete milhões de visualizações semanais e se manter no topo da plataforma",
-    "url": "https://www.cnnbrasil.com.br/pop/streaming/netflix-renova-a-serie-ninguem-quer-para-a-quarta-temporada/",
-    "date": "2026-11-07T01:45:18+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Defesa Civil confirma três tornados e duas microexplosões em Santa Catarina",
-    "summary": "Fenômenos meteorológicos atingiram o estado ao longo de quatro dias e provocaram estragos em dezenas de municípios; microexplosões aconteceram nas cidades de Fraiburgo e Timbó Grande",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/defesa-civil-confirma-tres-tornados-e-duas-microexplosoes-em-santa-catarina/",
-    "date": "2026-11-07T01:41:55+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Governo retoma avaliação ambiental de bacias e inicia estudo em Pelotas",
-    "summary": "As avaliações ambientais terão validade de dez anos e servirão de referência para futuras ofertas de áreas exploratórias, sem substituir a necessidade de licenciamento ambiental para projetos específicos",
-    "url": "https://www.cnnbrasil.com.br/infra/governo-retoma-avaliacao-ambiental-de-bacias-e-inicia-estudo-em-pelotas/",
-    "date": "2026-11-07T01:20:27+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Novas imagens mostram destroços de loja após desabamento no Brás",
-    "summary": "Equipes de resgate utilizaram cães farejadores na busca por possíveis vítimas sob os escombros na zona central paulistana; 27 pessoas já foram retiradas e quatro foram socorridas para a UPA da Mooca e estão estáveis",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/novas-imagens-mostram-destrocos-de-loja-apos-desabamento-no-bras/",
-    "date": "2026-11-07T01:05:04+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Fluminense leva a melhor, complica Vitória e se firma no G4 do Brasileirão",
-    "summary": "Time carioca conquistou um importante triunfo nesta sexta-feira (6), no Estádio do Barradão, pelo encerramento da 34ª rodada do Campeonato Brasileiro",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-leva-a-melhor-complica-vitoria-e-se-firma-no-g4-do-brasileirao/",
-    "date": "2026-11-07T00:56:38+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Fãs enfrentam filas para ver obras de Yoshitomo Nara em Nova York",
-    "summary": "Público viaja de diferentes locais para conferir pessoalmente os trabalhos expostos no bairro de Chelsea",
-    "url": "https://www.cnnbrasil.com.br/style/artes/fas-enfrentam-filas-para-ver-obras-de-yoshitomo-nara-em-nova-york/",
-    "date": "2026-11-07T00:50:22+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "‘Cães indicam possível vítima nos escombros’, diz capitã sobre desabamento",
-    "summary": "Porta-voz dos bombeiros informou que os animais farejaram um sinal de alerta que ainda precisa ser descartado; 35 pessoas ficaram levemente feridas e apenas quatro foram hospitalizadas",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caes-indicam-possivel-vitima-nos-escombros-diz-capita-sobre-desabamento/",
-    "date": "2026-11-07T00:49:23+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Sobrevivente relata rachaduras em prédio que desabou no Brás",
-    "summary": "Edmilson Silva afirmou que a estrutura não era preparada para suportar o peso e que outros imóveis da região estão na mesma situação",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sobrevivente-relata-rachaduras-em-predio-que-desabou-no-bras/",
-    "date": "2026-11-07T00:41:42+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Após polêmicas, Macklemore acusa casas de shows nos EUA de recusarem turnê",
-    "summary": "Rapper afirmou que nove locais vetaram apresentações em apoio à Palestina após sua saída dos shows de Ed Sheeran",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/apos-polemicas-macklemore-acusa-casas-de-shows-nos-eua-de-recusarem-turne/",
-    "date": "2026-11-07T00:29:57+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "PGR pede ao STF suspensão de ações sobre proibição das bets em todo o país",
-    "summary": "Pedido da procuradoria indica que as ações devem ser interrompidas até o julgamento definitivo da controvérsia constitucional pela Suprema Corte",
-    "url": "https://www.cnnbrasil.com.br/politica/pgr-pede-ao-stf-suspensao-de-acoes-sobre-proibicao-das-bets-em-todo-o-pais/",
-    "date": "2026-11-07T00:23:26+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "SemaClique: nova caneta com fabricação nacional chega às farmácias",
-    "summary": "Produzida pela Brace Pharma, Semaclique contém semaglutida sintética; remédio injetável é indicado para adultos com diabetes tipo 2",
-    "url": "https://www.cnnbrasil.com.br/saude/semaclique-nova-caneta-com-fabricacao-nacional-chega-as-farmacias/",
-    "date": "2026-11-07T00:23:11+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Especialista: Impeachment e posse rápida de Alliana não passam confiança",
-    "summary": "Flávia Loss de Araujo, professora de Relações Internacionais do Instituto Mauá, avalia ao Hora H que impeachment acelerado e posse do vice-presidente aprofundam crise de confiança no país",
-    "url": "https://www.cnnbrasil.com.br/internacional/especialista-impeachment-e-posse-rapida-de-alliana-nao-passam-confianca/",
-    "date": "2026-11-07T00:23:09+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Kaio Jorge defende provocações em clássicos e critica STJD: “Muito mimimi”",
-    "summary": "Atacante do Cruzeiro vem se notabilizando por gols e seguidas provocações ao Atlético no clássico mineiro",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-defende-provocacoes-em-classicos-e-critica-stjd-muito-mimimi/",
-    "date": "2026-11-07T00:21:47+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Tela de Van Gogh pode bater recorde mundial em leilão de Nova York",
-    "summary": "Obra avaliada em US$ 180 milhões vai a arremate pela Sotheby's no dia 18 de novembro com outras peças impressionistas",
-    "url": "https://www.cnnbrasil.com.br/style/artes/tela-de-van-gogh-pode-bater-recorde-mundial-em-leilao-de-nova-york/",
-    "date": "2026-11-07T00:17:50+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Justiça derruba decisão que autorizava três bets a voltar a funcionar",
-    "summary": "Presidente do TRF3 acolheu pedido da Advocacia-Geral da União e suspendeu liberação das plataformas Casa De Apostas, Betsul e Jogo Online, da CDA Gaming",
-    "url": "https://www.cnnbrasil.com.br/politica/justica-derruba-decisao-que-autorizava-tres-bets-a-voltar-a-funcionar/",
-    "date": "2026-11-07T00:17:11+00:00"
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Posto de combustíveis pega fogo no Paraná; testemunha relata que incêndio começou após raio atingir estabelecimento",
+    "summary": "Posto de combustíveis pega fogo no Paraná; testemunha relata que incêndio começou após raio atingir estabelecimento Um posto de combustíveis pegou fogo na manhã deste sábado (7) em Guaratuba, no litoral do Paraná. Ninguém se feriu. Segundo o Corpo de Bombeiros, a testemunha que o",
+    "url": "https://g1.globo.com/pr/parana/noticia/2026/11/07/posto-de-combustiveis-pega-fogo-no-parana-testemunha-raio.ghtml",
+    "date": "2026-11-07T15:47:07+00:00"
   },
   {
     "source": "Agência Brasil",
     "category": "Brasil",
-    "title": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático",
-    "summary": "O presidente Luiz Inácio Lula da Silva viajará à Manilla, capital das Filipinas, para estreitar o relacionamento do Brasil com o Sudoeste Asiático. Ele participará como convidado da Cúpula da Associação de Nações do Sudeste Asiático (Asean), no dia 15 de novembro. Em janeiro dest",
-    "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-vai-filipinas-buscando-estreitar-vinculo-com-bloco-asiatico",
-    "date": "2026-11-07T00:16:00+00:00"
+    "title": "Mostra une mulheres abolicionistas e luta antirracista contemporânea",
+    "summary": "Um balaio, cesto de palha ou vime Notícias relacionadas: Novembro Negro: 10 comunidades quilombolas recebem títulos fundiários. Câncer de mama: mulheres negras morrem 3,8 vezes mais que brancas. Luta abolicionista de Luiz Gama pode virar Patrimônio da Humanidade. usado para armaz",
+    "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-une-mulheres-abolicionistas-e-luta-antirracista-contemporanea",
+    "date": "2026-11-07T15:47:00+00:00"
   },
   {
-    "source": "Agência Brasil",
+    "source": "G1",
     "category": "Brasil",
-    "title": "Teto de loja de roupas desaba no Brás, em São Paulo",
-    "summary": "O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombeiros e da Defesa Civil de São Paulo atuam no atendimento da ocorrência. Ao tod",
-    "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
-    "date": "2026-11-07T00:15:00+00:00"
+    "title": "Jogador Bismarck é sepultado em Natal após ser morto a tiros",
+    "summary": "Jogador Bismarck é morto a tiros em Natal O jogador de futebol Bismarck Vinicyus Freire do Nascimento foi sepultado na manhã deste sábado (7), no Cemitério Público do Alecrim, em Natal. O atleta, de 36 anos, foi morto a tiros na madrugada de sexta-feira (6), em um bar no bairro C",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/07/jogador-bismarck-e-sepultado-em-natal-apos-ser-morto-a-tiros.ghtml",
+    "date": "2026-11-07T15:43:19+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Defesa Civil monitora risco de erosão em cemitério de cidade do Acre; cratera se aproxima de muro",
+    "summary": "Município de Rodrigues Alves registra outros pontos de desbarrancamento Defesa Civil Autoridades de Rodrigues Alves, no interior do Acre, monitoram o avanço de erosão no solo próximo ao Cemitério Municipal. Imagens registradas durante vistorias mostram uma cratera se aproximando ",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/07/defesa-civil-monitora-risco-de-erosao-em-cemiterio-de-cidade-do-acre-cratera-se-aproxima-de-muro.ghtml",
+    "date": "2026-11-07T15:43:11+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Motorista morre em acidente entre dois caminhões na BR-135 na Serra de Bocaiuva",
+    "summary": "Caminhão bateu na traseira de outro veículo de carga na BR-135C Corpo de Bombeiros/Divulgação Um motorista morreu após o caminhão que dirigia bater na traseira de outro veículo de carga na BR-135, na Serra de Bocaiuva, na madrugada deste sábado (7). Segundo o Corpo de Bombeiros, ",
+    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/07/motorista-morre-em-acidente-entre-dois-caminhoes-na-br-135-na-serra-de-bocaiuva.ghtml",
+    "date": "2026-11-07T15:41:21+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Homem atira pedra em ônibus e deixa passageiro ferido na cabeça em avenida do Recife",
+    "summary": "Passageiro fica ferido após ônibus ser atingido por pedrada no Recife Um passageiro ficou ferido após um homem arremessar uma pedra em um ônibus na Avenida Agamenon Magalhães, no bairro de Santo Amaro, na área central do Recife (veja vídeo acima). Segundo testemunhas, a vítima fo",
+    "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/07/homem-atira-pedra-em-onibus-e-deixa-passageiro-ferido-na-cabeca-em-avenida-do-recife.ghtml",
+    "date": "2026-11-07T15:37:52+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Após superar câncer de mama, homem dá palestras para quebrar preconceitos sobre doença em SP: 'Vida vale muito mais'",
+    "summary": "Após superar câncer de mama, homem dá palestras contra preconceitos O analista de recursos humanos Paulo Marchesin, de Piracicaba (SP), foi diagnosticado há cerca de 13 anos com um câncer de mama. Ele superou a doença e atualmente dá palestras para conscientizar homens e quebrar ",
+    "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/07/apos-superar-cancer-de-mama-homem-da-palestras-para-quebrar-preconceitos-sobre-doenca-em-sp-vida-vale-muito-mais.ghtml",
+    "date": "2026-11-07T15:37:33+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "VÍDEOS: RJ1 de sábado, 7 de novembro de 2026",
+    "summary": "Assista aos vídeos do telejornal com as notícias do Rio de Janeiro.",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-sabado-7-de-novembro-de-2026.ghtml",
+    "date": "2026-11-07T15:37:27+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "'Enrolada em toalhas': Recém-nascida é encontrada dentro de lixeira na Serra Gaúcha",
+    "summary": "Criança está inernada em UTI Neonatal Neimar De Cesero/Agência RBS Uma recém-nascida foi encontrada dentro de uma lixeira em Bento Gonçalves, na Serra Gaúcha, na noite de sexta-feira (6), segundo a Polícia Civil. A bebê foi socorrida e está internada na UTI Neonatal do Hospital T",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/07/recem-nascida-encontrada-lixeira-bento-goncalves-rs.ghtml",
+    "date": "2026-11-07T15:37:20+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Prefeitura de Feira de Santana contrata empresa por R$ 35 mil para elaborar projeto de decoração do Natal Encantado 2026",
+    "summary": "Natal Encantado em Feira de santana Fotos: Marcelo Magalhães A Prefeitura de Feira de Santana, segunda maior cidade da Bahia, contratou uma empresa especializada para elaborar o projeto de decoração do Natal Encantado 2026. O contrato, no valor de R$ 35 mil, foi divulgado na ediç",
+    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/07/prefeitura-de-feira-natal-encantado-2026.ghtml",
+    "date": "2026-11-07T15:36:21+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Obra no antigo Colégio Bennett provoca rachaduras em prédios vizinhos no Flamengo, diz Defesa Civil",
+    "summary": "Obra no antigo Colégio Bennett provoca rachaduras em prédios vizinhos no Flamengo, diz Defesa Civil Rachaduras profundas apareceram em diferentes pontos de prédios vizinhos a uma obra de construção de um condomínio no terreno do antigo Colégio Bennett, no Flamengo, na Zona Sul do",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/07/obra-provoca-rachaduras-em-predios-vizinhos-no-flamengo-diz-defesa-civil.ghtml",
+    "date": "2026-11-07T15:32:17+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Homem procura a PM, diz que quer deixar o tráfico e é preso em Quatis",
+    "summary": "Homem procura a PM, diz que quer deixar o tráfico e é preso em Quatis Divulgação/PMERJ Um homem, de 34 anos, foi preso após procurar a Polícia Militar e dizer que queria abandonar o tráfico de drogas na sexta-feira (6), em Quatis (RJ). Segundo a PM, ele se apresentou espontaneame",
+    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/07/homem-procura-a-pm-diz-que-quer-deixar-o-trafico-e-e-preso-em-quatis.ghtml",
+    "date": "2026-11-07T15:31:19+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "WePink: Empresa de Virginia deve indenizar mulher que teve cegueira parcial após usar produto para cílios ee sobrancelha, determina Justiça",
+    "summary": "WePink é condenada após consumidora sofrer lesão na córnea A WePink, empresa que tem como sócia a influenciadora Virginia Fonseca, deve indenizar uma cliente que perdeu parte da visão temporariamente ao usar um produto da marca. De acordo com acórdão publicado pelo Tribunal de Ju",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/11/07/wepink-empresa-de-virginia-deve-indenizar-mulher-que-teve-cegueira-parcial-apos-usar-produto-para-cilios-e-sobrancelha-determina-justica.ghtml",
+    "date": "2026-11-07T15:27:37+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Coxinha de salmão: aprenda a receita no Chef JPB",
+    "summary": "Coxinha de salmão do Chef JPB Reprodução TV Cabo Branco. O Chef JPB deste sábado (7) ensina o passo a passo para uma variação de um salgado adorado por muitos brasileiros: coxinha. A receita é apresentada pelo chef Denner Lorran, que mostra os ingredientes e processos necessários",
+    "url": "https://g1.globo.com/pb/paraiba/chef-jpb/noticia/2026/11/07/coxinha-de-salmao-aprenda-a-receita-no-chef-jpb.ghtml",
+    "date": "2026-11-07T15:26:47+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Motorista embriagado é arremessado para fora do veículo após bater em caminhonete e capotar em Boa Vista",
+    "summary": "Motorista embriagado bate em caminhonete e capota em Boa Vista Um motorista com sinais de embriaguez foi arremessado para fora do veículo após bater em uma caminhonete e capotar. O acidente ocorreu nessa sexta-feira (6), na Avenida Glaycon de Paiva, no bairro Pricumã, em Boa Vist",
+    "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/07/motorista-embriagado-e-arremessado-para-fora-do-veiculo-apos-bater-em-caminhonete-e-capotar-em-boa-vista.ghtml",
+    "date": "2026-11-07T15:26:41+00:00"
+  },
+  {
+    "source": "G1",
+    "category": "Brasil",
+    "title": "Trio é preso transportando 25 litros de 'loló' na BR-116; motorista sem habilitação tentou fugir em alta velocidade",
+    "summary": "Trio é preso transportando 25 litros de loló na BR-116 PRF/Divulgação Três jovens, de idades não informadas, foram presos na madrugada deste sábado (7), na BR-116, em Leopoldina, após serem flagrados transportando pelo menos 25 litros de um líquido suspeito de ser a droga conheci",
+    "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/07/trio-e-preso-transportando-25-litros-de-lolo-na-br-116-motorista-sem-habilitacao-tentou-fugir-em-alta-velocidade.ghtml",
+    "date": "2026-11-07T15:26:28+00:00"
   },
   {
     "source": "CNN Brasil",
     "category": "Brasil e mundo",
-    "title": "Kaio Jorge revela “quase acerto” com gigante europeu: “Apalavrado”",
-    "summary": "Atacante do Cruzeiro foi vendido para a Juventus, da Itália, em agosto de 2021, mas destino poderia ter sido outro no Velho Continente",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-revela-quase-acerto-com-gigante-europeu-apalavrado/",
-    "date": "2026-11-07T00:13:39+00:00"
+    "title": "Ataque a tiros deixa ao menos cinco mortos e mais de dez feridos na Polônia",
+    "summary": "Nas redes sociais, o primeiro-ministro polonês, Donald Tusk, informou que a polícia está investigando o caso",
+    "url": "https://www.cnnbrasil.com.br/internacional/tiroteio-cracovia-polonia/",
+    "date": "2026-11-07T15:20:54+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Two killed, at least 10 injured in shooting in Polish city of Krakow, TVN24 reports - Reuters",
+    "summary": "Two killed, at least 10 injured in shooting in Polish city of Krakow, TVN24 reports Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+    "date": "2026-11-07T15:15:07+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
+    "summary": "Municípios da chamada tríplice fronteira entre Brasil, Peru e Colômbia recebem neste sábado (7) uma mobilização conjunta de vacinação contra o sarampo. No lado brasileiro, a ação acontece em Tabatinga (AM), Benjamin Constant (AM), São Paulo de Olivença (AM) e Atalaia do Norte (AM",
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/municipios-da-triplice-fronteira-recebem-mobilizacao-contra-o-sarampo",
+    "date": "2026-11-07T15:14:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "EXCLUSIVE: Rubio warns top staff against conflicts of interest as Republicans look to 2028 - Reuters",
+    "summary": "EXCLUSIVE: Rubio warns top staff against conflicts of interest as Republicans look to 2028 Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUm9tMDhVdXpVaDRBaTdYbEJCblZiWDBjWGNPazdzdVY3VEJRRU9HM2Fja2RPVE1EOS14b2xIQWtPclRiVlZOelBkQmZLWDIxN2dxSFhXT1BUVXoxWWNkMjVlVmlsOEM0RE1YUllVd2FwTE0wcXI5RE9jWS05TzEwNTFVakJNUi1oNmlDVWgtSXRyWXRrZ1hqMzZHZFJkOG44anV2T2RB?oc=5",
+    "date": "2026-11-07T15:11:47+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Grande e forte frente fria avança sobre o país até segunda, diz Climatempo",
+    "summary": "Climatempo lista três principais características que tornam a frente fria pouco comum para novembro, com impactos diferentes em cada região do país",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/grande-e-forte-frente-fria-avanca-sobre-o-pais-ate-segunda-diz-climatempo/",
+    "date": "2026-11-07T15:09:32+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Leão XIV pede união na América do Sul em missa na fronteira do Uruguai",
+    "summary": "Papa instou povos do continente a superarem as divisões entre seus países durante oração na cidade de Paysandú, na fronteira do país com a Argentina",
+    "url": "https://www.cnnbrasil.com.br/internacional/leao-xiv-pede-uniao-na-america-do-sul-em-missa-na-fronteira-do-uruguai/",
+    "date": "2026-11-07T15:06:40+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "After midterm rout, Vance tries to build his own 2028 brand - Reuters",
+    "summary": "After midterm rout, Vance tries to build his own 2028 brand Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5",
+    "date": "2026-11-07T15:05:38+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Do linguajar ao salário, estudo aponta racismo na “indústria do som”",
+    "summary": "Pesquisadores identificaram padrões que retratam a existência de racismo na indústria do som no Brasil. A constatação está em um estudo feito com profissionais do setor de audiovisual, que relataram desigualdades no mercado de trabalho e até mesmo práticas para “higienizar” os pr",
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/do-linguajar-ao-salario-estudo-aponta-racismo-na-industria-do-som",
+    "date": "2026-11-07T15:05:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing - Reuters",
+    "summary": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
+    "date": "2026-11-07T15:02:21+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Petróleo em alta impactou produção da Suzano, diz CFO",
+    "summary": "Marcos Assumpção aponta commodity como principal fator de pressão nos custos e prevê geração de caixa forte no 4º trimestre",
+    "url": "https://www.cnnbrasil.com.br/agro/petroleo-em-alta-impactou-producao-da-suzano-diz-cfo/",
+    "date": "2026-11-07T15:01:57+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Rennes x Lille: horário e onde assistir ao jogo do Campeonato Francês",
+    "summary": "Equipes se enfrentam neste domingo (8), pela 10ª rodada da Ligue 1, em confronto direto na parte de cima da tabela",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/rennes-x-lille-horario-e-onde-assistir-ao-jogo-do-campeonato-frances/",
+    "date": "2026-11-07T15:00:29+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Virada democrata no Texas ameaça negócios de Elon Musk no estado",
+    "summary": "Eleição de governadora e procurador-geral opostos ao setor de tecnologia pode aumentar escrutínio sobre Tesla e SpaceX",
+    "url": "https://www.cnnbrasil.com.br/internacional/vitorias-democratas-no-texas-ameacam-negocios-de-elon-musk/",
+    "date": "2026-11-07T15:00:09+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Ana Castela arrasta Celso Portiolli pelo palco do Teleton 2026",
+    "summary": "Apresentador propôs que a cantora fizesse ao vivo a brincadeira que costuma postar nas redes sociais, na noite de sexta-feira (6), no SBT",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/ana-castela-arrasta-celso-portiolli-pelo-palco-do-teleton-2026/",
+    "date": "2026-11-07T15:00:02+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Fadiga da decisão: por que fazer pequenas escolhas pode ser desgastante?",
+    "summary": "Entenda como a \"fadiga da decisão\" afeta a rotina de quem tem dificuldades de chegar a um consenso sobre qual atitude tomar sobre determinada situação",
+    "url": "https://www.cnnbrasil.com.br/comportamento/fadiga-da-decisao-por-que-fazer-pequenas-escolhas-pode-ser-desgastante/",
+    "date": "2026-11-07T15:00:02+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Brasileiro fã de Senna constrói carro de Fórmula 1 na garagem de casa",
+    "summary": "Manoel Luiz Machado, de 52 anos, realizará outro sonho neste domingo (8): assistir presencialmente ao GP de São Paulo de F1",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/brasileiro-fa-de-senna-constroi-carro-de-formula-1-na-garagem-de-casa/",
+    "date": "2026-11-07T14:54:58+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Thaila Ayala conta sobre perimenopausa aos 39 anos: “jurava que era câncer”",
+    "summary": "Atriz sentia cansaço extremo e achou que estava com alguma doença mais grave",
+    "url": "https://www.cnnbrasil.com.br/noticias/thaila-ayala-conta-sobre-perimenopausa-aos-39-anos-jurava-que-era-cancer/",
+    "date": "2026-11-07T14:53:32+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "A escritora brasileira que virou sensação com romance sobre os neandertais: 'Já tive empregos horríveis, estar no meu quarto escrevendo é libertador'",
+    "summary": "Escritora de Brasília (DF) lançou neste ano \"Os Imortais\", livro sobre um grupo de neandertais e seu encontro com os homo sapiens e a luta pela sobrevivência que se tornou um dos destaques de 2026 e tem traduções previstas para vários países.",
+    "url": "https://www.bbc.com/portuguese/articles/cwm24k534kr4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T14:52:29+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "STJ nega prisão preventiva para PM por matar estudante de medicina em SP",
+    "summary": "Quinta Turma da corte negou provimento ao recurso com base em uma questão processual; Ministério Público Federal havia defendido a prisão preventiva do policial, acusado de atirar contra o jovem de 22 anos em 2024",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/stj-nega-prisao-preventiva-para-pm-por-matar-estudante-de-medicina-em-sp/",
+    "date": "2026-11-07T14:48:33+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Mostra de Cinema Adelia Sampaio homenageará cineastas de duas gerações",
+    "summary": "A VIII Mostra Competitiva de Cinema Negro Adelia Sampaio estreia em Brasília na próxima segunda-feira (9/11), com uma programação potente, que terá como destaques a exibição de um filme inédito de Adelia Sampaio e uma homenagem à cineasta Joyce Prado. Este ano, a Mostra traz a Br",
+    "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-de-cinema-adelia-sampaio-homenageara-cineastas-de-duas-geracoes",
+    "date": "2026-11-07T14:47:00+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Fórmula 1 renova contrato e confirma GP de São Paulo em Interlagos até 2035",
+    "summary": "CEO da categoria destaca a paixão da torcida brasileira e a importância histórica do circuito paulistano",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-renova-contrato-e-confirma-gp-de-sao-paulo-em-interlagos-ate-2035/",
+    "date": "2026-11-07T14:44:49+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls - Reuters",
+    "summary": "Berkshire Hathaway accelerates stock buybacks, operating profit falls Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
+    "date": "2026-11-07T14:43:23+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Brasil pode colher recorde de 151,7 milhões de toneladas de milho",
+    "summary": "Estimativa da Safras e Mercado indica alta de 6% na safra 2026/27 impulsionada pelo avanço do plantio no Norte e Nordeste",
+    "url": "https://www.cnnbrasil.com.br/agro/safras-mercado-eleva-2/",
+    "date": "2026-11-07T14:38:58+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Por que só tirar a água dos vasos de plantas não impede os mosquitos de nascerem? A trajetória invisível da água que vira criadouro de dengue",
+    "summary": "Ovos aderidos às superfícies e pontos ocultos nos imóveis exigem escovação e inspeção frequente para evitar a proliferação de insetos",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-so-tirar-a-agua-dos-vasos-de-plantas-nao-impede-os-mosquitos-de-nascerem-a-trajetoria-invisivel-da-agua-que-vira-criadouro-de-dengue/",
+    "date": "2026-11-07T14:22:58+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Peña chega ao Ministério Público do Paraguai para audiência com promotoria",
+    "summary": "Ex-presidente foi detido pelas autoridades na sexta-feira (6) após sofrer impeachment no Congresso Nacional do país por acusações de envolvimento no caso do Ueno Bank",
+    "url": "https://www.cnnbrasil.com.br/internacional/pena-chega-no-ministerio-publico-do-paraguai-diz-imprensa-local/",
+    "date": "2026-11-07T14:21:41+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Mega-Sena 3083: sorteio deste domingo (8) pode pagar R$ 60 milhões",
+    "summary": "Para concorrer, apostadores devem registrar seus jogos até as 22h deste sábado (7)",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3083/",
+    "date": "2026-11-07T14:21:27+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Vídeo: veja momento do desabamento do prédio no Brás, no Centro de SP",
+    "summary": "Câmera de segurança do Smart Sampa mostra correria e nuvem de poeira se formando pela rua Maria Joaquina, onde ocorreu o acidente; 35 pessoas estavam no local",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-veja-o-momento-do-desabamento-do-predio-no-bras-no-centro-de-sp/",
+    "date": "2026-11-07T14:08:17+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
+    "summary": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+    "date": "2026-11-07T14:02:42+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Fórmula 1: Rafa Câmara projeta desafios na estreia pela Haas",
+    "summary": "À CNN Brasil, piloto brasileiro aponta 2027 como um ano de aprendizado e destaca foco na evolução individual e coletiva",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-rafa-camara-projeta-desafios-na-estreia-pela-haas/",
+    "date": "2026-11-07T14:00:24+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Viagem de Leão: Lembre outras visitas de papas à América Latina",
+    "summary": "Leão XIV visitará Uruguai, Argentina e Peru, com um roteiro que abrange dez cidades e viagem para cidade com mais de 3 mil metros de altitude após cirurgia no pulmão",
+    "url": "https://www.cnnbrasil.com.br/internacional/entenda-a-historia-das-visitas-papais-a-america-latina/",
+    "date": "2026-11-07T14:00:21+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "EUA oferecem US$ 20 milhões por informações sobre programa nuclear do Irã",
+    "summary": "Departamento de Estado Americano anunciou recompensa na sexta-feira (6); pasta afirma que busca dados sobre instalações, equipamentos e funcionários envolvidos no projeto iraniano",
+    "url": "https://www.cnnbrasil.com.br/internacional/eua-oferecem-us-20-milhoes-por-informacoes-sobre-programa-nuclear-do-ira/",
+    "date": "2026-11-07T13:56:49+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Proteção dos Montes Oceânicos avança com consulta pública no Nordeste",
+    "summary": "Sob as águas do Rio Grande do Norte e do Ceará, repousam montanhas gigantes de até 5 mil metros de altura. Elas superam o Pico da Neblina, no Amazonas, a maior formação terrestre do país, que tem cerca de 3 mil metros, e são moradia para mais de 100 espécies de peixes, tubarões, ",
+    "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/protecao-dos-montes-oceanicos-avanca-com-consulta-publica-no-nordeste",
+    "date": "2026-11-07T13:52:00+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Entenda o que é a reprimenda sofrida por Rafael Câmara na Fórmula 1",
+    "summary": "Piloto brasileiro atrapalhou Charles Leclerc no treino livre do GP de São Paulo mas escapou de punição no grid",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/entenda-o-que-e-a-reprimenda-sofrida-por-rafael-camara-na-formula-1/",
+    "date": "2026-11-07T13:45:53+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Fenabrave: Agências de veículos pedem adiamento da reforma tributária",
+    "summary": "Presidente da federação defende postergação e aponta dúvidas e riscos ao fluxo de caixa das concessionárias",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/fenabrave-agencias-de-veiculos-pedem-adiamento-da-reforma-tributaria/",
+    "date": "2026-11-07T13:42:40+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Plantio de soja atinge 96% da área em Mato Grosso",
+    "summary": "Trabalhos no maior estado produtor seguem acelerados impulsionados pelo clima favorável na safra atual",
+    "url": "https://www.cnnbrasil.com.br/agro/mato-grosso-chega-perto/",
+    "date": "2026-11-07T13:40:04+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+    "summary": "Crescimento rápido, exposição relevante de recursos públicos e relações próximas com o mundo político estão entre as semelhanças dos dois casos. Mas analistas apontam diferenças relevantes",
+    "url": "https://www.bbc.com/portuguese/articles/c6eq33z529jwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T13:26:41+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Como aliviar a gripe em casa? 6 receitas de chás para tosse, coriza e dor de garganta",
+    "summary": "Misturas caseiras com gengibre, limão, alho e eucalipto auxiliam no alívio de sintomas respiratórios durante a recuperação",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/como-aliviar-a-gripe-em-casa-6-receitas-de-chas-para-tosse-coriza-e-dor-de-garganta/",
+    "date": "2026-11-07T13:22:20+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Rio: Receita apreende entorpecentes em galpão de transportadora",
+    "summary": "A Receita Federal apreendeu, nesta sexta-feira (6), quatro encomendas contendo entorpecentes e medicamento de comercialização controlada com indícios de irregularidade. A fiscalização ocorreu em uma transportadora localizada na Pavuna, zona norte do Rio de Janeiro. O valor estima",
+    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/rio-receita-apreende-entorpecentes-em-galpao-de-transportadora",
+    "date": "2026-11-07T13:15:00+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Lutador que espancou vizinhas no Rio diz à polícia não se lembrar de nada",
+    "summary": "Lucas Portela Fontana Gomes, preso nesta sexta-feira (6) por tentativa de feminicídio, disse em depoimento que faz uso de anabolizantes e que, por conta disso, não recordava as agressões",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/lutador-que-espancou-vizinhas-no-rio-diz-a-policia-nao-se-lembrar-de-nada/",
+    "date": "2026-11-07T13:06:09+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "ABPA diz que regionalização limitou impacto da Newcastle nas exportações",
+    "summary": "Restrições comerciais atingem 21 mil toneladas, ante 166 mil toneladas por mês em 2024, segundo Ricardo Santin",
+    "url": "https://www.cnnbrasil.com.br/agro/abpa-diz-que-regionalizacao-limitou-impacto-da-newcastle-nas-exportacoes/",
+    "date": "2026-11-07T13:05:02+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Setor de saúde é resiliente à economia, diz CEO do Fleury",
+    "summary": "Jeane Tsutsui destaca também disciplina financeira do grupo diante do cenário macroeconômico adverso",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/setor-de-saude-e-resiliente-a-economia-diz-ceo-do-fleury/",
+    "date": "2026-11-07T13:01:24+00:00"
+  },
+  {
+    "source": "CNN Brasil",
+    "category": "Brasil e mundo",
+    "title": "Para onde vai o entulho de uma obra: o que a regra para resíduos exige",
+    "summary": "Resolução Conama 307 estabelece regras para o gerenciamento de resíduos da construção civil; na MRV, cada canteiro de obras tem um plano de gestão, com medidas de reaproveitamento, controle e destinação ambientalmente adequada",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/para-onde-vai-o-entulho-de-uma-obra-o-que-a-regra-para-residuos-exige/",
+    "date": "2026-11-07T13:00:47+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Enem 2026: saiba o que levar no dia da prova",
+    "summary": "Os estudantes que participam neste domingo (8) do primeiro do Exame Nacional do Ensino Médio (Enem) devem ficar atentos ao que levar para os locais de prova, uma vez que, por questões de segurança, uma série de itens são vetados. Por outro lado, a caneta preta e o documento ofici",
+    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-o-que-levar-no-dia-da-prova",
+    "date": "2026-11-07T12:57:00+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Lutador de jiu-jitsu é preso por tentativa de feminicídio no Rio",
+    "summary": "O Ministério Público do Estado do Rio de Janeiro (MPRJ), obteve, nesta sexta-feira (6), a prisão temporária de Lucas Portela Fontana Gomes, 32 anos, lutador de jiu-jitsu, por tentativa de feminicídio contra uma vizinha em um prédio no Maracanã, zona norte do Rio, onde os dois mor",
+    "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/lutador-de-jiu-jitsu-e-preso-por-tentativa-de-feminicidio-no-rio",
+    "date": "2026-11-07T12:57:00+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
+    "summary": "Os casos de mpox que surgiram no Brasil em 2026 levaram o Ministério da Saúde a comprar até 20 mil doses da vacina em caráter preventivo e estratégico. A doença se manifesta no início com erupções na pele, manchas, viram bolhas e forma crostas. Os sintomas da doença aparecem com ",
+    "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox",
+    "date": "2026-11-07T12:37:00+00:00"
+  },
+  {
+    "source": "Agência Brasil",
+    "category": "Brasil",
+    "title": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
+    "summary": "Cinco milhões de inscritos confirmados no Exame Nacional do Ensino Médio de 2026 vivem a expectativa sobre qual será o tema da prova de redação no primeiro dia de provas. Os eixos abordados nas últimas edições do Enem foram diversos: cidadania e direitos sociais, meio ambiente e ",
+    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-vivem-expectativa-sobre-o-tema-da-redacao",
+    "date": "2026-11-07T12:31:00+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "A nomeação de assessor para cargo na Casa Branca que indica endurecimento de Trump após eleição",
+    "summary": "A promoção de Jason Miller, um partidário leal e influente, para o cargo de chefe de gabinete pelo presidente dos EUA, provavelmente criará conflitos com o Congresso.",
+    "url": "https://www.bbc.com/portuguese/articles/cqrmyymgjexvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T11:50:19+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "How Democrats won their blowout midterm victory - Reuters",
+    "summary": "How Democrats won their blowout midterm victory Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV01ET2lGRzZiTlVXb0VSajdkWXJ5ZmlGMlEzdFdSTWo0QnRUcFhaS3F6ZUxDcWhXVUpZcmRZTUlVUVdHd3UyaEF3d2ZVY3VpSTNzVXV0VHdiT0xQUzFnYkQ4bnBIc1dmdjJIdXRHd1pFWHZJalZJLUxWdFFROUgzMUFpeFNMTzNZeXhpNVdlSXRpcTlld1VjbjFKOFppUjQyVmc?oc=5",
+    "date": "2026-11-07T11:08:05+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "'Caso Master do Paraguai': entenda a crise de banco que derrubou o presidente Santiago Peña",
+    "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+    "url": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T10:53:57+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "Quem é Pedro Alliana, o novo presidente do Paraguai com quem o poderoso Partido Colorado tenta se recuperar",
+    "summary": "Pedro Alliana tomou posse nesta sexta-feira como o novo presidente do Paraguai, após o processo de impeachment conduzido pelo Congresso que destituiu Santiago Peña do cargo.",
+    "url": "https://www.bbc.com/portuguese/articles/ck87zz7rwqz5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T10:26:56+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports - Reuters",
+    "summary": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
+    "date": "2026-11-07T09:55:43+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Indonesian workers rally for Prabowo as women march against president - Reuters",
+    "summary": "Indonesian workers rally for Prabowo as women march against president Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnZwamdNTmRieFVaTGpVT2c4Vk9sM1lyVHdaYldoeUJyZnNZTWJjRU9RN3JYM2RFcFExcWpSTFdCdExidm93aEFuNVU0a1BFRHhEUnBWNEp4XzNLVTBoR1FucDlMelQ1Sy02VUJsMFZWWVNxUVR3TUZycWNGOFh4SldmSTUyYTBRSXJ0UUhEU1VuTGFfYUdUZzhjZ2VxY0JMcXhORVdYWVN2T2pTdkN4b0xHd2NybUVQ?oc=5",
+    "date": "2026-11-07T09:43:45+00:00"
+  },
+  {
+    "source": "BBC News Brasil",
+    "category": "Brasil e mundo",
+    "title": "Debate sobre juros tem tudo a ver com mobilização juvenil e popular que levou Lula à vitória, diz André Singer",
+    "summary": "Cientista político afirma que pacote para bolso do eleitor, ruas mobilizadas e apoio de Janones foram chave da vitória de Lula, mas que avanço da direita radical é 'ameaça' que não desaparece com resultado da eleição.",
+    "url": "https://www.bbc.com/portuguese/articles/cr62yv4gjd97o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-07T09:29:22+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Iran executes Baluch militant over armed attack on police station - Reuters",
+    "summary": "Iran executes Baluch militant over armed attack on police station Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0ZJZklBbmNsclpBQXZHR1B5ZlVGN01JR19CX1VDbXZ3M3FxODlXdXZLZzJScTM2SjR4dTA4eklLb3RfT2pvV0wzNFBTTjFVcVFvRG9VekIxVXlVbXhpXzFWcEt1QnM0WTFkV2oycHA5QzFhOWxWWlh1Sl9oVUJTTGNhcGZ4QjlfVGIwWWRSYjBXMHZfRGMyQmY0OXV5U0dSQWpwUU5pLVl6dUpFdTF4Q2Z6akFpSlF4?oc=5",
+    "date": "2026-11-07T08:50:11+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says - Reuters",
+    "summary": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+    "date": "2026-11-07T08:14:35+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Russia says it hit targets in and around Kyiv in massive overnight strike - Reuters",
+    "summary": "Russia says it hit targets in and around Kyiv in massive overnight strike Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
+    "date": "2026-11-07T07:31:00+00:00"
+  },
+  {
+    "source": "Agência Pública",
+    "category": "Investigativo",
+    "title": "Branco duro, pingo de mel, maracotão ou solta caroço",
+    "summary": "Na caixa de branco duros que o avô trazia da feira havia mais que fruta: havia pertencimento, saudade e cheiro de casa",
+    "url": "https://apublica.org/2026/11/branco-duro-pingo-de-mel-maracotao-ou-solta-caroco/",
+    "date": "2026-11-07T07:00:00+00:00"
+  },
+  {
+    "source": "Agência Pública",
+    "category": "Investigativo",
+    "title": "Políticos, empresários e a Meta estão por trás dos boicotes a eleitores do PT nas redes",
+    "summary": "Parlamentares e empresa são alvos do Ministério Público do Trabalho e analistas remetem movimento a práticas nazistas",
+    "url": "https://apublica.org/2026/11/politicos-empresarios-e-a-meta-estao-por-tras-dos-boicotes-a-eleitores-do-pt-nas-redes/",
+    "date": "2026-11-07T07:00:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Malaysia's king warns against challenging his order allowing house arrest for ex-PM Najib - Reuters",
+    "summary": "Malaysia's king warns against challenging his order allowing house arrest for ex-PM Najib Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhJT1FjMmprRFN3MXVHQnFZWXJMNjhRc2JROUJTZ05vWnpLMTdjOWFwbzUwMTF1dlg1YWY5YWlObGtzVFpFSU1INFdwZFBOT1NtcnpDZURIZF8zX2laNjFjazNPczJ3dmI2YVJPMGx5VWIwemxZN1dyLXdWajY3UG44Zzg2T3hmMTdVM1VCSFJpNm91ZjhwUGtUUWVzbjRCcG1VWkdueFFSRm1uSmg0NU9tdGRrUmNMcmV4NU1JMW9UQk12V2lDNTBCaDhUdw?oc=5",
+    "date": "2026-11-07T06:46:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "As COP31 comes to Turkey, satellites reveal a landfill methane problem - Reuters",
+    "summary": "As COP31 comes to Turkey, satellites reveal a landfill methane problem Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVRwcWFYZndwYUxDdEZaT2ZaeENLZ3lvOFJiOFRBREdZTng1Tmhtbm1YTE9MUy1sM2FDNkhvSE9nakhabFpHdXhOclZHeWgtXzlPRmhzNzlKcjR4OXE5U01wRWZBZ2pGZFJocHhTeWZmRkxBVnM0RTQwd0Jmemhjd0IyUFRDM2lzMHBsT3Q5V0o4cXBsU01PN2ZBN2MzZGxvQXJVemxZSXBnQnk4eTdZSXNOZ3JNY3c?oc=5",
+    "date": "2026-11-07T06:08:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Environmental groups embrace AI, even as they warn of data center impacts - Reuters",
+    "summary": "Environmental groups embrace AI, even as they warn of data center impacts Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5",
+    "date": "2026-11-07T06:07:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Delhi world's most polluted major city on eve of Diwali, Swiss group says - Reuters",
+    "summary": "Delhi world's most polluted major city on eve of Diwali, Swiss group says Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+    "date": "2026-11-07T05:28:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Hong Kong lawmakers condemn foreign governments' criticism of Joshua Wong ruling - Reuters",
+    "summary": "Hong Kong lawmakers condemn foreign governments' criticism of Joshua Wong ruling Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHc3Q2ozTlVsanhBang5b1Z0cmpvOGczN2R1TWJQd2JaZUdaLWtfd0Vva3ZTZkkxU0ZPTWZZenE1Q1JwUzBjdTVwU2xNV1JQdUZ2ZUZLYlR0SnpSczl4WENRcUJSYm53M21BblRuZnYzbTVGczZZX0U4NjdLTG95TDN0ZkVnVUV3NUg1NkpPQXpnZDR2dnlUWmFEZlBNVDZ1NUlZcEJpMDFxdlEtc1ZwU1dPMkJlLUdOQ2xCR1RFZGRHQQ?oc=5",
+    "date": "2026-11-07T05:15:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Pakistani astronaut to join China space station's Shenzhou-24 mission - Reuters",
+    "summary": "Pakistani astronaut to join China space station's Shenzhou-24 mission Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWlCUHUxM2NQQ3VJOUttWWpFbUxsX3pFN3ItSTNlbF9jM1BVX0g5b0xNUjZaaExjS2xFWG1aTy05TS1qQ093d04wNWdvWTVHXzBhUXVwazZWX0xFNmROQTJITzl0ZFZSOEpyLTh3SlJ0eFJ2a08xSnVTQl9RSC1OZ1E5OXJHNnB3c2pLakJUaHdqSDVLN1p6ZEZLWDlDUXNtZ3hqaVdfeHBhcmVtUkE?oc=5",
+    "date": "2026-11-07T04:32:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation - Reuters",
+    "summary": "Qatar says its mediation efforts between US and Iran continue to prevent escalation Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
+    "date": "2026-11-07T04:23:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Peltola campaign sues Alaska to get records on rejected absentee ballots - Reuters",
+    "summary": "Peltola campaign sues Alaska to get records on rejected absentee ballots Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2Y0QkZDU3lpQXJjc2ZuYWlvT3lMM0wyTDFqZkI5Q3VWS1dycnhHaElwLU9NeVJ2Y1MzaVVCb1EzZlU4U2RadjVYZHo1cGV1eFZYYWsySW9vZ3ZnbWxYc2JXODhsVHlrYko1VmZEV29WY1hoYXJyUVNZbnhXOTdIZGU1U0xqb3gxS2VwWDh4Rnk2NVFUMHlmU0Fqa3RpZk5lclhld1JRdmRZcWJlbmVIR29IX0w4YjRqaV9V?oc=5",
+    "date": "2026-11-07T03:36:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Trump administration ends California balloting lawsuit - Reuters",
+    "summary": "Trump administration ends California balloting lawsuit Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXMtNVM2c2ZyaGZ0ZTFLQUlLNjJyZUxWcFpJaVhEMmxwZDJNam1GdHBKWFVrT0syVGRiU25mZXlvbXRvNWlUbE95MVJYUHpSbFdYbm9HMEw1eS1KQVRTTjZpMmlzeDdHTjhPZlFDSFZhalJJdDFxd3VnRlNDVTFLY3JzV0N6WktFUVRITUMtS0dpQjB0Mlc2cnhwYm1SaERTcEtjZUVaZXpfYjQ?oc=5",
+    "date": "2026-11-07T02:55:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Houston mayor curtails police cooperation with ICE, saying 'elections matter' - Reuters",
+    "summary": "Houston mayor curtails police cooperation with ICE, saying 'elections matter' Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFdFOGx1X2lGTl8yX1h5NmxRbmJ0VElULWdnVHNZQmlVYTFtRjRqR3NyUzJuLVlkRjJZMU9iMm9sRmU0VW9xSFdwd21meTRDWXc5bHJFYjZaYWZkX05BNWR3WmJlaElTLU5oS0duNTduZU02b0dtdm9tUWZleXBFY0c0OHNncTlvQWFJdDNDWmdxaE9HZUtKNnJoV3ctTVlhRlNUSVhWdlJ2X01uQ21TVjBQNE5iaWtzWnVrZExPMFVzMW5kSnc?oc=5",
+    "date": "2026-11-07T02:29:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Russia pounds power facilities around Kyiv, damages major bridge - Reuters",
+    "summary": "Russia pounds power facilities around Kyiv, damages major bridge Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGhCNTc0bjdqTkxuZDdtOFpCZVd1TEdDQnpURXNYeGY1ZG9saHUyZGFBbTMzWF8zbzBmOHQyeERTMTlWaUo1eUVXdjAyUENTaEkwbGNsb2xteDdxWXFybS1GcjlKWWl4VU4xUGdVdk9wSE1PM3NSTktvYWRINUpESnp4bDJqMkhzR21ySDZKWVVBbzJ5NHpDeDJFNFh5MDdGcEpWbEkzU2dFWFZBVWhxR0pR?oc=5",
+    "date": "2026-11-07T01:23:00+00:00"
+  },
+  {
+    "source": "Reuters",
+    "category": "Brasil e mundo",
+    "title": "Haiti PM says gang leader Mathias Saintil is dead - Reuters",
+    "summary": "Haiti PM says gang leader Mathias Saintil is dead Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5",
+    "date": "2026-11-07T00:27:00+00:00"
   },
   {
     "source": "BBC News Brasil",
@@ -464,44 +832,12 @@
     "date": "2026-11-07T00:10:58+00:00"
   },
   {
-    "source": "CNN Brasil",
+    "source": "Reuters",
     "category": "Brasil e mundo",
-    "title": "Entenda por que Paraguai aprovou impeachment após Peña anunciar renúncia",
-    "summary": "Saída voluntária do cargo precisava ser referendada pelo Congresso do país; ex-presidente foi detido pela polícia após ordem do Ministério Público",
-    "url": "https://www.cnnbrasil.com.br/internacional/entenda-por-que-paraguai-aprovou-impeachment-apos-pena-anunciar-renuncia/",
-    "date": "2026-11-07T00:07:52+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "À CNN, Rafa Câmara cita surpresa com estreia na F1: “Não estava esperando”",
-    "summary": "Piloto brasileiro assumiu o posto na Haas para os GPs de São Paulo e Las Vegas, mas retornará à Fórmula 2 para encerrar a temporada",
-    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/a-cnn-rafa-camara-cita-surpresa-com-estreia-na-f1-nao-estava-esperando/",
-    "date": "2026-11-07T00:00:55+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Tifanny viaja e treina com o Osasco mesmo impedida de jogar na Superliga",
-    "summary": "14ª Vara Cível da Comarca da Capital do Rio de Janeiro indeferiu nesta sexta-feira (6) um novo pedido de liminar apresentado pela defesa da atleta",
-    "url": "https://www.cnnbrasil.com.br/esportes/volei/tifanny-viaja-e-treina-com-o-osasco-mesmo-impedida-de-jogar-na-superliga/",
-    "date": "2026-11-06T23:59:43+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Lula diz que espera trabalhar com Pedro Alliana de “maneira cooperativa”",
-    "summary": "Presidente brasileiro desejou êxito ao vice-presidente do Paraguai, que tomou posse como chefe do Executivo após impeachment de Santiago Peña",
-    "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-espera-trabalhar-com-pedro-alliana-de-maneira-cooperativa/",
-    "date": "2026-11-06T23:59:11+00:00"
-  },
-  {
-    "source": "CNN Brasil",
-    "category": "Brasil e mundo",
-    "title": "Paraguai: Novo presidente ordena “ações imediatas” para afetados por crise",
-    "summary": "Pedro Alliana tomou posse após o Congresso paraguaio aprovar o impeachment de Santiago Peña em meio à crise envolvendo o Banco Ueno",
-    "url": "https://www.cnnbrasil.com.br/internacional/paraguai-novo-presidente-ordena-acoes-imediatas-para-afetados-por-crise/",
-    "date": "2026-11-06T23:57:46+00:00"
+    "title": "Google executive Donald Harrison resigns from SpaceX board - Reuters",
+    "summary": "Google executive Donald Harrison resigns from SpaceX board Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFBQUUZob254UUQxOGhmLUd6Vm1xNThSU2RNTXVib3Rja0R3OVdMbkR4MjR0UDY4ZWRUMkZab1JaZmVaZmllSW96SkR1WmVFb1dXblU4dDg1Y05mUDlPUmlpTlI3VjBxcFpFbVIweUNhRlNxeE5ZLU93VDJzVmE4Y3c5VTByV1poaVFfRG5CUy0wNWlFeUZ6bnA3bmZhek1VOENqdWFyQ0poUzIxU016SUN3?oc=5",
+    "date": "2026-11-06T23:48:00+00:00"
   },
   {
     "source": "BBC News Brasil",
@@ -512,28 +848,12 @@
     "date": "2026-11-06T23:43:32+00:00"
   },
   {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Justiça suspende decisão que liberou o funcionamento de três bets",
-    "summary": "A segunda instância da Justiça Federal em São Paulo derrubou nesta sexta-feira (6) a liminar que autorizou o funcionamento de três casas de apostas online . A decisão de liberar as bets foi proferida pelo Tribunal Regional Federal da 3ª Região (TRF3), após um recurso apresentado ",
-    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets",
-    "date": "2026-11-06T23:39:00+00:00"
-  },
-  {
     "source": "Reuters",
     "category": "Brasil e mundo",
-    "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat - Reuters",
-    "summary": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5",
-    "date": "2026-11-06T23:37:27+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Enem: candidato pode saber local de prova por telefone",
-    "summary": "Os 5,05 milhões de candidatos confirmados do Exame Nacional do Ensino Médio (Enem) 2026 têm à disposição um canal telefônico gratuito com inteligência e assistência virtual para informar o local de prova , em todas as 27 unidades da federação, nos dois próximos domingos, 8 e 15 d",
-    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-candidato-pode-saber-local-de-prova-por-telefone",
-    "date": "2026-11-06T23:30:00+00:00"
+    "title": "Paraguay ex-president Peña placed under house arrest after impeachment - Reuters",
+    "summary": "Paraguay ex-president Peña placed under house arrest after impeachment Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5",
+    "date": "2026-11-06T23:37:37+00:00"
   },
   {
     "source": "Reuters",
@@ -544,14 +864,6 @@
     "date": "2026-11-06T23:19:47+00:00"
   },
   {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Alunos de escola pública em Goiás contam com aulões para o Enem",
-    "summary": "A preparação para o Exame Nacional do Ensino Médio (Enem) envolve uma rotina de estudos, dedicação e organização para estudantes que estão concluindo o ensino médio e se aproximando da escolha profissional. Entre aulas, exercícios e atividades em grupo, eles conciliam os estudos ",
-    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/alunos-de-escola-publica-em-goias-contam-com-auloes-para-o-enem",
-    "date": "2026-11-06T23:12:00+00:00"
-  },
-  {
     "source": "Nexo Jornal",
     "category": "Brasil",
     "title": "O revés eleitoral de Trump não encerra o desmonte do Estado",
@@ -560,68 +872,28 @@
     "date": "2026-11-06T23:05:50+00:00"
   },
   {
-    "source": "BBC News Brasil",
+    "source": "Reuters",
     "category": "Brasil e mundo",
-    "title": "Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?",
-    "summary": "O papa Leão 14º volta a pisar em solo latino-americano nesta sexta-feira (6/11), três anos depois de deixar o Peru e se transferir para Roma. E ele encontrará uma região bastante diferente, do ponta de vista político.",
-    "url": "https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06T22:44:20+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Lula apresentará avanços ambientais na COP31, na Turquia",
-    "summary": "O presidente Luiz Inácio Lula da Silva levará na próxima semana à cidade de Antália, na Turquia, números que mostram avanços do Brasil no combate ao desmatamento e na redução da dependência de combustíveis fósseis . O país euroasiático sediará a 31ª Conferência das Nações Unidas ",
-    "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
-    "date": "2026-11-06T22:32:00+00:00"
+    "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says - Reuters",
+    "summary": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5",
+    "date": "2026-11-06T23:04:12+00:00"
   },
   {
     "source": "Reuters",
     "category": "Brasil e mundo",
-    "title": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos - Reuters",
-    "summary": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
-    "date": "2026-11-06T22:23:28+00:00"
+    "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
+    "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+    "date": "2026-11-06T22:46:57+00:00"
   },
   {
     "source": "Reuters",
     "category": "Brasil e mundo",
-    "title": "Paraguay Senate votes to impeach President Peña - Reuters",
-    "summary": "Paraguay Senate votes to impeach President Peña Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEZGTXdqZzI2U0M5aVZQb2FnNXk0VS1tWFlfci1fd1AyYnRYOUxQSElRUkxnM0RsNl9HZWkwb2pla2FxMXBRWF9zZ2o4amgwcGZrWnZxaHpvd0VBUDlSWk9tU1NfNTdFb0t5WVF4Q0pvZFZZdkRUcmh6ZEJXMmtnb2gzYVEwVXl6dWVQZDB1UVdfd2JDSXoxMWpR?oc=5",
-    "date": "2026-11-06T22:19:50+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
-    "summary": "O dólar fechou em alta e o Ibovespa avançou nesta sexta-feira (6), em um dia marcado pela divulgação de dados do mercado de trabalho dos Estados Unidos e pela expectativa em torno da política econômica do quarto mandato do presidente Luiz Inácio Lula da Silva. A moeda estaduniden",
-    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua",
-    "date": "2026-11-06T22:10:00+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1% - Reuters",
-    "summary": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1% Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-    "date": "2026-11-06T22:04:06+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Lula sanciona exame que irá avaliar qualidade de alunos de medicina",
-    "summary": "O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (6) a lei que torna o Exame Nacional de Avaliação da Formação Médica (Enamed) , obrigatório para avaliar os estudantes de medicina e a qualidade dos cursos oferecidos no país. O exame será aplicado em três momento",
-    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina",
-    "date": "2026-11-06T21:57:00+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Democrats planning flood of AI bills when they take control of Congress - Reuters",
-    "summary": "Democrats planning flood of AI bills when they take control of Congress Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
-    "date": "2026-11-06T21:56:42+00:00"
+    "title": "Macklemore says US venues rejected his Free Palestine tour - Reuters",
+    "summary": "Macklemore says US venues rejected his Free Palestine tour Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFQyVWNRSHpneWwxUHAxT1lHQWsxamZ3eTMyZlYwN2hvMHlYMUtyUlFFQTJ3UjdEaVFnSXNXMkpXRFFkaV9maV9mcnVIbHl0VGE2N0ZWbFNFQVN3MlEzalRTQUZ3bTNBcWtlMWtCdTBmVkZvMGgzY2JSTFZOT08yUVdLNk1oX3hMcnZYdVVSRnJYcE9HMWdBQ2J4NG5CVlBTVHQybnhrVQ?oc=5",
+    "date": "2026-11-06T22:07:43+00:00"
   },
   {
     "source": "Agência Pública",
@@ -632,44 +904,12 @@
     "date": "2026-11-06T21:52:24+00:00"
   },
   {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Can the US Democrats' 'Blue Wave' election sweep buoy Ukraine? - Reuters",
-    "summary": "Can the US Democrats' 'Blue Wave' election sweep buoy Ukraine? Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUlCRnhXUUxLU0EwelVOdThCN1pOUlJwQ1hZdk0yNldENVU2dlZsb2JPTVZ3WWgyRURjUWtZWmUyYjNNY2E3WXhtNzEtRHJhdVE4MTJRdmE1dXoxOXo3MkZMX1FEQTl3eEt3RmpzaVdJaXdJaFBTRl9sWUhPeU82YnhtSnM4eER1MlNLbDh5NklvYWZWWFFaSVBfdG4zMEE1b0FnOWxIcXdoZDQ?oc=5",
-    "date": "2026-11-06T21:44:34+00:00"
-  },
-  {
     "source": "Nexo Jornal",
     "category": "Brasil",
     "title": "O que é a ‘cultura rato’, que une jovens da periferia de Recife",
     "summary": "Moradores da região metropolitana da capital pernambucana transformaram um insulto em identidade e pertencimento Jovens dentro do canal da Ilha das Cobras Danilo Silva / Arquivo pessoal Rato, “mamífero roedor, da família dos murídeos, grandemente danoso às despensas e celeiros, d",
     "url": "https://www.nexojornal.com.br/externo/2026/11/06/recife-periferias-linguagens-jovem-cultura-rato-o-que-e",
     "date": "2026-11-06T21:41:57+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects - Reuters",
-    "summary": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3ZYSHc0NzlFY3JNTzJja3pTVjB6YXhxeUxoNVZmMVRSSmtDMXBzRjFPLTJFWGhINGNZMDBBRVdZaURHMW1ZeWVzVjRxVDRIdUJ5WFE5Ql9ua01tSVd5LVdQNHlVbTFUQjJkSmMwaUJlTXA4QzdRWlo4N1RIejFWREJ0NFp2ZEtZejNqWF9ITXN2dDFZX01JUXo4eGRVMHhPRGx0WmkxbDFLOXp4?oc=5",
-    "date": "2026-11-06T21:38:51+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Ex-funcionários e colaboradores da Oi começam a receber indenizações",
-    "summary": "Os ex-funcionários e colaboradores da empresa de telefonia Oi começaram a receber o pagamento de verbas rescisórias de natureza indenizatória nesta sexta-feira (6). De acordo com a Justiça, nesta primeira etapa, os valores serão distribuídos por meio de rateio proporcional entre ",
-    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ex-funcionarios-e-colaboradores-da-oi-comecam-receber-indenizacoes",
-    "date": "2026-11-06T21:30:00+00:00"
-  },
-  {
-    "source": "Agência Brasil",
-    "category": "Brasil",
-    "title": "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados",
-    "summary": "As cidades de Seara e Canoinhas, em Santa Catarina, tiveram mudanças nos locais de realização do Exame Nacional do Ensino Médio (Enem), que terá a primeira prova neste domingo (8). A alteração ocorreu por causa das fortes chuvas registradas nos últimos dias no estado . Notícias r",
-    "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cidades-de-seara-e-canoinhas-sc-tem-locais-de-prova-alterados",
-    "date": "2026-11-06T21:25:00+00:00"
   },
   {
     "source": "Nexo Jornal",
@@ -696,14 +936,6 @@
     "date": "2026-11-06T20:55:50+00:00"
   },
   {
-    "source": "BBC News Brasil",
-    "category": "Brasil e mundo",
-    "title": "Como cultura machista dos anos 2000 que 'embalou' Russell Brand, agora condenado por estupro",
-    "summary": "O comportamento que serviu de pano de fundo para o processo contra Brand também ajudou a projetá-lo, escreve Katie Razzall, editora de mídia da BBC.",
-    "url": "https://www.bbc.com/portuguese/articles/c63ell03l5wgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06T20:40:46+00:00"
-  },
-  {
     "source": "Nexo Jornal",
     "category": "Brasil",
     "title": "‘Você não está sozinha’: relatos de violência e misoginia",
@@ -726,237 +958,5 @@
     "summary": "Lista interna do iOS impede que termos sejam sugeridos pelo corretor do teclado em diferentes idiomas. iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir",
     "url": "https://tecnoblog.net/noticias/iphone-tem-lista-secreta-com-mais-de-100-mil-palavras-que-evita-sugerir/",
     "date": "2026-11-06T20:14:27+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
-    "summary": "Aplicações de IA aumentaram demanda por data centers que, por sua vez, agora são principal fonte de receita para a AMD. AMD agora prioriza data centers; mas e os jogos e os PCs?",
-    "url": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
-    "date": "2026-11-06T19:59:24+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Two top Justice Department officials resign as post-election exodus accelerates - Reuters",
-    "summary": "Two top Justice Department officials resign as post-election exodus accelerates Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5",
-    "date": "2026-11-06T19:26:15+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
-    "summary": "Picape terá produção reduzida no Texas a partir de 2027, após vendas muito abaixo do esperado. Fábrica será destinada ao Cybercab, veículo autônomo da marca. Tesla vai sacrificar Cybertruck para fabricar mais robotáxis",
-    "url": "https://tecnoblog.net/noticias/tesla-vai-sacrificar-cybertruck-para-fabricar-mais-robotaxis/",
-    "date": "2026-11-06T19:08:01+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Newsroom bomb threats follow escalating European flight hoaxes - Reuters",
-    "summary": "Newsroom bomb threats follow escalating European flight hoaxes Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1hGX3FNRUVaMDhGcnI2WkxBSk53bDZLT1A3RDZvZFktR0wyZy05Ym8xc2hsTFlQMDJzT3lHeHZkTl9UMkttb3RocE9KSDB6OGNmNG9iNFY0aFdVelhFeXREVWJ1OUpUNG1zWEFMUnZueUVMdGhXNVVuUFBCY2lhMm1EY0pxUEsweDVveC11eF9ZRmwwSEdVUy1Jbndzdi1GWXd3M282NHdpdkdqeU83T1FRcmtXZ2RGSDRFN2pKRzg?oc=5",
-    "date": "2026-11-06T18:30:51+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds - Reuters",
-    "summary": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUR2UGkwV2c4dmhzNURLVE9HOFU0Vks4d3FkRzFBa1hWZXloRGtwaVVoUnl4WFVBU0ktdXl3eU1lclhVTC1xUjBPX2NWMG82V2IzdVZXZVd5dFEwSkhSUzdMV2I1VlB5a1R4czhndXdGQURaY3pzTVZoUC1UNm5OUXBRZXNFSXpBV3VOODc1UUZGV21oTkxtWW9fMGdsanBDV2NUUVNST3R3Zm5mUW5JQWtvdXRSem1ZSlJSaE93d0FtckdmX2c0MGlLT2I3Tjh5eXVlZlFpNW0?oc=5",
-    "date": "2026-11-06T18:28:02+00:00"
-  },
-  {
-    "source": "BBC News Brasil",
-    "category": "Brasil e mundo",
-    "title": "O erro mais comum na redação do Enem e como evitar que ele derrube sua nota",
-    "summary": "Primeiro, lembre-se de que a redação tem que ter começo, meio e fim, interconectados entre si — em outras palavras, uma introdução que apresente uma tese bem elaborada.",
-    "url": "https://www.bbc.com/portuguese/articles/c639887442yyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06T18:11:06+00:00"
-  },
-  {
-    "source": "Agência Pública",
-    "category": "Investigativo",
-    "title": "Como a quebra do banco Ueno, no Paraguai, acabou com o governo do presidente Santiago Peña",
-    "summary": "Crescimento do Ueno teve ajuda política e dinheiro público; presidente foi acionista de empresa do grupo ligado ao banco",
-    "url": "https://apublica.org/2026/11/como-a-quebra-do-banco-ueno-no-paraguai-acabou-com-o-governo-do-presidente-santiago-pena/",
-    "date": "2026-11-06T18:00:00+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Após supermercados, hackers atacam freezers de bancos de sangue na França",
-    "summary": "Invasores alteraram remotamente a temperatura de equipamentos que armazenavam plasma e amostras. Após supermercados, hackers atacam freezers de bancos de sangue na França",
-    "url": "https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/",
-    "date": "2026-11-06T17:42:24+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Protesters enter Microsoft data centre site in Amsterdam - Reuters",
-    "summary": "Protesters enter Microsoft data centre site in Amsterdam Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEdZZ1dJZWJXSEpqSFpmRDhHRDlYRURxZnROd1BFc0lFa3dJX3BTOHg4ejVuUnFMZnhOYVNHUTZDSmVCTlVBaTRiQ3Q2aHNKNmZYTkJ4RUdPT0F6MFZrRWNrcU1VWTFUVXNDZ2xpYjRuNmlRZ21zVEZiVzZ4NlJLU0hJWDAtWm53YzVPeGNPSFRjeWEydF9hNVoxZURCcHFDSFE?oc=5",
-    "date": "2026-11-06T17:28:46+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters",
-    "summary": "Activists breach Microsoft data centre construction site as protests spread in Europe Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5",
-    "date": "2026-11-06T17:28:19+00:00"
-  },
-  {
-    "source": "BBC News Brasil",
-    "category": "Brasil e mundo",
-    "title": "Pai de Meghan Markle é preso sob suspeita de posse de material de abuso sexual infantil",
-    "summary": "Ele foi detido na Flórida, nos Estados Unidos. Ainda não está claro se a duquesa de Sussex foi informada sobre a prisão.",
-    "url": "https://www.bbc.com/portuguese/articles/c34g11eerrpno?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-06T17:12:08+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children - Reuters",
-    "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
-    "date": "2026-11-06T17:05:57+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Microsoft Paint tem falha grave que permite ataques remotos",
-    "summary": "Microsoft já liberou uma correção para o Paint, mas talvez você tenha que ir atrás dela. Microsoft Paint tem falha grave que permite ataques remotos",
-    "url": "https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/",
-    "date": "2026-11-06T17:01:28+00:00"
-  },
-  {
-    "source": "Agência Pública",
-    "category": "Investigativo",
-    "title": "Queimaduras, terror psicológico e salários atrasados em data centers na Europa",
-    "summary": "Investigação revela realidade dos trabalhadores nos centros de desenvolvimento de infraestrutura de IA na Europa",
-    "url": "https://apublica.org/2026/11/queimaduras-terror-psicologico-e-salarios-atrasados-em-data-centers-na-europa/",
-    "date": "2026-11-06T16:55:01+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 - Reuters",
-    "summary": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89 Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB?oc=5",
-    "date": "2026-11-06T16:52:50+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Trump administration scraps meeting of high-profile tech panel - Reuters",
-    "summary": "Trump administration scraps meeting of high-profile tech panel Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODU5elZ2RThqaExmd0I1RzUxVUZ5cF9SaE9LdEdxU3UwLWhYZkZtU2J2QWt1ejJpZXlGZ21rWXdmMU1HSWg2RUlEeWs4NTFORU5SWXNLeDBkekVlNC1fRXBqdDRmd3FYVVNLOGJHYXBjNkVyQWNLVU84b2IxenhxeWpMRzNURjhUSVdpN2wzOE9WaGxXYTkzZ2pHbWFpVHpFNXZSVDBLbmtoNDV0MjMyei0xYlYtcG5hc09hY3JaZ1h6TVk?oc=5",
-    "date": "2026-11-06T16:25:31+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say - Reuters",
-    "summary": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFuV2xuOUtpNDJEVlB0Q0NMYV9BQkNZTzkzRkNVWHBrVGI2TC0xeUk0LTVzdWJrclByYzR3OS1PV2VJaExTT0hud2hzSENNUnlZb0J5cE5yclAtcmljYnlRcFFTOXRuOFVYbUlnbmh3cU5qQTNQSWJ3SEJ1UENMTWFUOXVBZ2xVckpNWjcwOG5meGVBWFBZRlRyZ1Q4ZkNweDlsREhMRWFwX0NrSDctbVoyZDhfdUdzOFAyVmFReUFDNkVBcmc?oc=5",
-    "date": "2026-11-06T16:19:44+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "TSMC considers making advanced memory chips, The Information reports - Reuters",
-    "summary": "TSMC considers making advanced memory chips, The Information reports Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
-    "date": "2026-11-06T15:46:09+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says - Reuters",
-    "summary": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1dZdi15b2M2dnJjdnlIVmFTclRLVE12aDlKQWdsWVJiWV9QcTd5NlNCby1YQUNSbGk4RmZ6X0ROMnJzcEoyVjh4dlhxXzd3aTU2T0otcEhWSzVYcmFPcEhkRDgycHl0bmUzZ3JfOW12ZmZnc1Z6VkZsb3VVdGVXd0hSc3pndThoY2FXUEp0MXJQVlVfaUFnT1FEX01DZkxQeWRGMEhrOEFmTTQxYkFFYVVOYzdjUQ?oc=5",
-    "date": "2026-11-06T15:45:43+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Microsoft quer patentear IA que altera falas ao vivo",
-    "summary": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
-    "url": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
-    "date": "2026-11-06T15:10:46+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Bomb threats warning 'the clock is ticking' disrupt TV channels across Europe - Reuters",
-    "summary": "Bomb threats warning 'the clock is ticking' disrupt TV channels across Europe Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnRXOWRIUkRMTjJUVHA5MERSRnEzbUpJLWdYbjJwUkhyMUlkaVBELWNFWWhyVDl5RTNqQkhUSTdacElqLUhNRk9RSlg2SXpvRkQwTENWZ1MzRFlfYW1OcFBMRHFRQ0RfRDZ1MkVBbHJYTncyWXVOSnh6UTBFMklGLVRiSGNoN21PNURKcUtGSXpWYnkxM19zcDNCbldTeGc4bzJrRmVZNGt4Slp3NmFHcGpLMWNTSFJr?oc=5",
-    "date": "2026-11-06T15:09:49+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
-    "summary": "Nasdaq recuou 5,52% nos Estados Unidos, maior desvalorização diária desde abril de 2025. Bolsa da Coreia do Sul interrompeu negociações por 20 minutos após tombo. TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas",
-    "url": "https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/",
-    "date": "2026-11-06T15:01:33+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Voltou a cair: Motorola Signature recebe R$ 1,5 mil de desconto no Magalu",
-    "summary": "Motorola Signature (256 GB) com tela de 165 Hz mais fluida que a do novo Signature 27 e câmeras de 50 MP recebe desconto de 25% no Pix durante a Black November 2026 Voltou a cair: Motorola Signature recebe R$ 1,5 mil de desconto no Magalu",
-    "url": "https://tecnoblog.net/achados/voltou-a-cair-motorola-signature-recebe-r-15-mil-de-desconto-no-magalu/",
-    "date": "2026-11-06T14:40:41+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "Seafarer killed in suspected missile attack on tanker in Gulf - Reuters",
-    "summary": "Seafarer killed in suspected missile attack on tanker in Gulf Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5",
-    "date": "2026-11-06T14:17:12+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "EUA vão finalmente deixar de usar disquetes no controle de tráfego aéreo",
-    "summary": "Disquetes são usados em mais de 400 centros de controle de tráfego aéreo. Sistemas serão modernizados pela FAA até o fim de 2028. EUA vão finalmente deixar de usar disquetes no controle de tráfego aéreo",
-    "url": "https://tecnoblog.net/noticias/eua-vao-finalmente-deixar-de-usar-disquetes-no-controle-de-trafego-aereo/",
-    "date": "2026-11-06T14:16:31+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-    "summary": "Galaxy Watch Ultra tem corpo de titânio resistente e tela AMOLED de 3.000 nits; smartwatch da Samsung sai 64% mais em conta no Pix com cupom no Mercado Livre Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-    "url": "https://tecnoblog.net/achados/galaxy-watch-ultra-para-aventuras-cai-63-no-mes-da-black-friday/",
-    "date": "2026-11-06T14:09:37+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
-    "summary": "Watch GT 7 (46 mm) traz GPS com IA mais preciso e tela AMOLED de 3.000 nits; novo smartwatch da Huawei recebe desconto de 42% em oferta da Black November no Pix Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
-    "url": "https://tecnoblog.net/achados/huawei-watch-gt-7-com-gps-esta-42-mais-barato-na-amazon/",
-    "date": "2026-11-06T13:43:32+00:00"
-  },
-  {
-    "source": "Reuters",
-    "category": "Brasil e mundo",
-    "title": "UK broadcaster Sky received security threat, as alerts sweep Europe - Reuters",
-    "summary": "UK broadcaster Sky received security threat, as alerts sweep Europe Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXVkbjhaNUxMNlUzS3pxcXV4elVJeGhzSHNBbWloYW1rV21PNkxOZUFHeWFYSHZvemlDU05NcEh6R3lKOGhMSHdxMThRTDJsNWlHNE42WVpNWDR5ZlF0TjVBbzg3c1drdTVTbF9YcTFhbGFaWUNxWGV2RnlVYWp4RlBCak94NFFvbzdpdDhOWnFrdHNKU044c2Q5RXNtd3JQaHFfbllmSVY?oc=5",
-    "date": "2026-11-06T13:30:52+00:00"
-  },
-  {
-    "source": "Tecnoblog",
-    "category": "Tecnologia",
-    "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
-    "summary": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros. Instituição atribui cortes a uma reestruturação interna. Nubank demite funcionários após IA reduzir fila de fraudes",
-    "url": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
-    "date": "2026-11-06T13:09:13+00:00"
   }
 ]
