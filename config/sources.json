@@ -1,6 +1,92 @@
 [
-  {"id":"g1","name":"G1","feed":"https://g1.globo.com/rss/g1/"},
-  {"id":"agencia-brasil","name":"Agência Brasil","feed":"https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"},
-  {"id":"bbc-brasil","name":"BBC News Brasil","feed":"https://feeds.bbci.co.uk/portuguese/rss.xml"},
-  {"id":"nexo","name":"Nexo Jornal","feed":"https://www.nexojornal.com.br/rss.xml"}
+  {
+    "id": "agencia-brasil",
+    "name": "Agência Brasil",
+    "category": "Brasil",
+    "feed": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+  },
+  {
+    "id": "g1",
+    "name": "G1",
+    "category": "Brasil",
+    "feed": "https://g1.globo.com/rss/g1/"
+  },
+  {
+    "id": "bbc-brasil",
+    "name": "BBC News Brasil",
+    "category": "Brasil",
+    "feed": "https://feeds.bbci.co.uk/portuguese/rss.xml"
+  },
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "category": "Brasil e mundo",
+    "feed": "https://feeds.reuters.com/reuters/topNews"
+  },
+  {
+    "id": "nexo",
+    "name": "Nexo Jornal",
+    "category": "Brasil",
+    "feed": "https://www.nexojornal.com.br/rss.xml"
+  },
+  {
+    "id": "folha",
+    "name": "Folha de S.Paulo",
+    "category": "Brasil",
+    "feed": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"
+  },
+  {
+    "id": "estadao",
+    "name": "Estadão",
+    "category": "Brasil",
+    "feed": "https://www.estadao.com.br/rss/ultimas.xml"
+  },
+  {
+    "id": "oglobo",
+    "name": "O Globo",
+    "category": "Brasil",
+    "feed": "https://oglobo.globo.com/rss.xml"
+  },
+  {
+    "id": "uol",
+    "name": "UOL Notícias",
+    "category": "Brasil",
+    "feed": "https://rss.uol.com.br/feed/noticias.xml"
+  },
+  {
+    "id": "cnn-brasil",
+    "name": "CNN Brasil",
+    "category": "Brasil",
+    "feed": "https://www.cnnbrasil.com.br/feed/"
+  },
+  {
+    "id": "agencia-publica",
+    "name": "Agência Pública",
+    "category": "Investigativo",
+    "feed": "https://apublica.org/feed/"
+  },
+  {
+    "id": "valor",
+    "name": "Valor Econômico",
+    "category": "Economia",
+    "feed": "https://valor.globo.com/rss/valor.xml"
+  },
+  {
+    "id": "tecnoblog",
+    "name": "Tecnoblog",
+    "category": "Tecnologia",
+    "feed": "https://tecnoblog.net/feed/"
+  },
+  {
+    "id": "agencia-fapesp",
+    "name": "Agência FAPESP",
+    "category": "Ciência",
+    "feed": "https://agencia.fapesp.br/rss.xml"
+  },
+  {
+    "id": "agencia-gov",
+    "name": "Agência Gov",
+    "category": "Oficial",
+    "feed": "https://agenciagov.ebc.com.br/rss/ultimasnoticias/feed.xml"
+  }
 ]
